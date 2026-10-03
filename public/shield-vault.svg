@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="shieldGrad" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#2563EB" />
+      <stop offset="50%" stopColor="#1D4ED8" />
+      <stop offset="100%" stopColor="#0B1528" />
+    </linearGradient>
+  </defs>
+  <path d="M32 4L10 13V29C10 44.5 19.4 56.8 32 60C44.6 56.8 54 44.5 54 29V13L32 4Z" fill="url(#shieldGrad)" stroke="#60A5FA" stroke-width="2"/>
+  <path d="M26 31V25C26 21.6863 28.6863 19 32 19C35.3137 19 38 25 38 25V31" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round"/>
+  <rect x="22" y="30" width="20" height="17" rx="3.5" fill="#FFFFFF"/>
+  <circle cx="32" cy="36" r="2.2" fill="#0B1528"/>
+  <path d="M31 36L30.5 42H33.5L33 36H31Z" fill="#0B1528"/>
+  <path d="M32 6L49 14L32 21L15 14L32 6Z" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="1.2"/>
+  <ellipse cx="32" cy="13.5" rx="1.6" ry="1.1" fill="#1D4ED8"/>
+  <path d="M32 13.5L44 18V25" stroke="#F59E0B" stroke-width="1.2"/>
+</svg>
